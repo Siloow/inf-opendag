@@ -13,7 +13,7 @@
             - We gaan een korte les verzorgen die een klein beetje laat zien wat wij op deze opleiding doen
         - Vraag kunnen gerust tussendoor tenzij het vraagstuk te veel tijd zal kosten
     - Middenstuk (+/- 25 min)
-        - Eisen opstellen
+        - Eisen opstellen : analyse
             - Wat we gaan doen is : het ontwerpen en maken van een rekenmachine m.b.v. pen en papier  
             - Vraag de klas wat er allemaal op een rekenmachine zit; laat ze dit opschrijven
                 - Schermpje
@@ -22,12 +22,14 @@
                 - Enter knop
                 - Clear knop
             - Dit lijkt een beetje op requirements engineering; noem dit woord niet maar leg wel uit dat dit een onderdeel is wat wij leren
-        - Eisen "vertalen" naar een ontwerp
+            - Laat voorbeeld zien in slides van een requirements document
+        - Eisen "vertalen" naar een ontwerp: analyse
             - Laat ze een voorbeeld zien op het whiteboard van de onderdelen van een auto en hoe deze samenwerken
             - Dit voorbeeld moet simpel met alleen woorden, vierkantjes en lijnen
             - Laat de klas vervolgens zelf de interactie van hierboven genoemde eisen opschrijven d.m.v. lijnen en vierkantjes
             - Doe het hierna voor op het whiteboard; geef aan dat dit ook een onderdeel is dat wij leren (uml)
-        - Het ontwerp realiseren in code
+            - Laat voorbeeld zien in slides van UML diagram 
+        - Het ontwerp realiseren in code : development
             - Switch van presentatie naar visual studio
             - In de code staan 5 voorbeelden die geïmplementeerd kunnen worden
             - Bij elk voorbeeld staat een korte uitleg wat er moet gebeuren
