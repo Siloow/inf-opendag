@@ -14,6 +14,7 @@ module CalculatorDomain =
         | ZeroState of ZeroStateData 
         | AccumulatorState of AccumulatorStateData 
         | AccumulatorWithDecimalState of AccumulatorStateData 
+        // Testcomment 2
         | ComputedState of ComputedStateData 
         | ErrorState of ErrorStateData 
 
