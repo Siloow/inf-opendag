@@ -45,3 +45,7 @@
 
     - Vragen
         - Nu kan men gaan tenzij ze nog vragen hebben 
+
+
+        - Vermijd terminelgoie in de code sessions
+        - Check even wat er is opgeschreven of dat klikt met wat ik doe

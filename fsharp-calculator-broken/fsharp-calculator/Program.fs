@@ -24,6 +24,8 @@ module CalculatorDomain =
 
     .
 
+    // Dit is een testcomment
+
 
     // end-voorbeeld1
 
