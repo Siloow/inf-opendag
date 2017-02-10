@@ -18,15 +18,7 @@ module CalculatorDomain =
         | ErrorState of ErrorStateData 
 
     // voorbeeld1
-    // defineer hier de inputs van de rekenmachine
-
-    // six inputs
-
-    .
-
-    // Dit is een testcomment
-
-
+ 
     // end-voorbeeld1
 
     // data associated with each state
@@ -59,8 +51,6 @@ module CalculatorDomain =
     type AccumulateSeparator = DigitAccumulator -> DigitAccumulator 
 
     // voorbeeld2 
-
-    .
 
 
     // end-voorbeeld2
@@ -271,7 +261,6 @@ module CalculatorImplementation =
             ErrorState stateData
 
         // voorbeeld3
-        // als er op clear wordt geklikt, voer deze functie uit
 
         // end-voorbeeld3
 
@@ -367,9 +356,7 @@ module CalculatorServices =
             | false, _ -> 0.0
 
     // voorbeeld4
-    // defineer een functie die de operaties uitvoert
-
-    .
+    
 
     // end-voorbeeld4
 

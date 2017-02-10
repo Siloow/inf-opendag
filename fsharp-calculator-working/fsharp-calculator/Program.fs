@@ -60,6 +60,8 @@ module CalculatorDomain =
     type AccumulateSeparator = DigitAccumulator -> DigitAccumulator 
 
     // voorbeeld2 
+    // Hier wordt een operator met 2 nummers gecombineerd tot een resultaat
+
     type DoMathOperation = CalculatorMathOp * Number * Number -> MathOperationResult 
     // end-voorbeeld2
 
@@ -746,5 +748,6 @@ let calculate = CalculatorImplementation.createCalculate services
 let form = new CalculatorUI.CalculatorForm(initialState,calculate,services.getDisplayFromState,services.getPendingOpFromState)
 
 // voorbeeld5
+// uiteindelijk form.Show() om dit geheel te laten zien
 form.Show()
 // end-voorbeeld5
