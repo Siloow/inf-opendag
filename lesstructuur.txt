@@ -32,6 +32,11 @@
         - Het ontwerp realiseren in code : development
             - Switch van presentatie naar visual studio
             - In de code staan 5 voorbeelden die geïmplementeerd kunnen worden
+                - Er zijn twee solutions: fsharp-calculator-working, fsharp-calculator-broken
+                - Zet je laptop op "Duplicate screens" mode
+                - Zet op de beamer fsharp-calculator-broken en op je laptop fsharp-calculator-working
+                - Je kan in beide solutions zoeken naar "voorbeeld"; er staan namelijk 5 voorbeelden die moeten worden opgelost
+                - In fsharp-calculator-working staan dus de oplossingen en uitleg die je kan overtypen in fsharp-calculator-broken
             - Bij elk voorbeeld staat een korte uitleg wat er moet gebeuren
             - Leg tijdens het typen uit wat er gebeurt in normaal Nederlands
             - Vraag eventueel tijdens het typen aan het publiek of men een idee heeft wat het stukje code zal doen
